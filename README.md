@@ -13,7 +13,6 @@ My recent work focuses on:
 - 🎥 **Video-audio-text understanding** with spatiotemporal graphs
 - 🔍 **Fine-grained multimodal alignment** and contrastive learning
 - 🧩 **Causal reasoning and storyline modeling** in long videos
-- 🧠 Integration of large vision-language models like **Qwen-VL 32B**
 
 I aim to build more interpretable, generalizable, and scalable solutions for multimodal representation learning.
 
