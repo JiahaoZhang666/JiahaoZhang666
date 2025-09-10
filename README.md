@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jiahao Zhang (张甲豪)
 
-🎓 Research Assistant @ HKUST (Guangzhou)  
+🎓 @ HKUST (Guangzhou)  
 🔬 Focus: Multimodal Large Models, Cross-modal Retrieval, Video-Audio Understanding
 
 ---
