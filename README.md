@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Jiahao Zhang (张甲豪)
 
-🎓 @ HKUST (Guangzhou)  
-🔬 Focus: Multimodal Large Models, Cross-modal Retrieval, Video-Audio Understanding
+🎓 PhD Student @ HKUST (Guangzhou)
+🔬 Focus: Multimodal Large Models, Audio-Visual Generation & Editing, Cross-modal Retrieval
 
 ---
 
@@ -9,13 +9,14 @@
 
 My recent work focuses on:
 
-- 🔁 **Cross-modal retrieval** using Cauchy-Schwarz divergence (CS/GCS)
+- ✂️ **Instruction-guided audio-visual editing**
+- 🎬 **Audio-visual paired data & benchmarking**
 - 🎥 **Video-audio-text understanding** with spatiotemporal graphs
+- 🔁 **Cross-modal retrieval** using Cauchy-Schwarz divergence (CS/GCS)
 - 🔍 **Fine-grained multimodal alignment** and contrastive learning
-- 🧩 **Causal reasoning and storyline modeling** in long videos
 
-I aim to build more interpretable, generalizable, and scalable solutions for multimodal representation learning.
+I aim to build more interpretable, generalizable, and scalable solutions for multimodal generation and representation learning.
 
 ## 📬 Contact
 
-- 📧 Email: zhangjiahao0310@gmail.com  
+- 📧 Email: jzhang380@connect.hkust-gz.edu.cn
