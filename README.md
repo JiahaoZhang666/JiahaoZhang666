@@ -2,7 +2,10 @@
 
 🎓 PhD Student @ HKUST (Guangzhou)
 
-🔬 Focus: Multimodal Large Models, Audio-Visual Generation & Editing, Cross-modal Retrieval
+🔬 Focus: Multimodal Large Models, 
+& Audio-Visual Generation, 
+& Editing, 
+& Cross-modal Retrieval
 
 ---
 
